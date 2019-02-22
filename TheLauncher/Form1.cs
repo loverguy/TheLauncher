@@ -17,10 +17,8 @@ namespace TheLauncher
             
         }
 
-        private void button26_Click(object sender, EventArgs e)
-        {
-            
-        }
+        private void button26_Click(object sender, EventArgs e) => home1.BringToFront();
+
 
         private void button9_Click(object sender, EventArgs e)
         {
@@ -31,5 +29,7 @@ namespace TheLauncher
         {
 
         }
+
+        private void button6_Click(object sender, EventArgs e) => twitch1.BringToFront();
     }
 }

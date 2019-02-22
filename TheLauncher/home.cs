@@ -9,16 +9,11 @@ using System.Windows.Forms;
 
 namespace TheLauncher
 {
-    public partial class twitch : UserControl
+    public partial class home : UserControl
     {
-        public twitch()
+        public home()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            System.Diagnostics.Process.Start("https://www.twitch.tv/titanztv");
         }
     }
 }

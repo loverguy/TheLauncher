@@ -11,10 +11,11 @@ C:\Users\Loverguy\source\repos\TheLauncher\TheLauncher\obj\Debug\TheLauncher.Tit
 C:\Users\Loverguy\source\repos\TheLauncher\TheLauncher\obj\Debug\TheLauncher.csprojAssemblyReference.cache
 D:\TheLauncher\TheLauncher\bin\Debug\TheLauncher.exe
 D:\TheLauncher\TheLauncher\bin\Debug\TheLauncher.pdb
-D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.csprojAssemblyReference.cache
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.Form1.resources
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.Properties.Resources.resources
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.csproj.GenerateResource.cache
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.csproj.CoreCompileInputs.cache
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.exe
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.pdb
+D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.twitch.resources
+D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.home.resources
