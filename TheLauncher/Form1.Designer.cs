@@ -167,6 +167,7 @@
             this.label3.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Unispace", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Location = new System.Drawing.Point(856, 194);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(228, 58);
@@ -179,6 +180,7 @@
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Unispace", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(763, 90);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(286, 58);
@@ -191,6 +193,7 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Unispace", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(62, 280);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(199, 58);
@@ -203,6 +206,7 @@
             this.HomePage.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.HomePage.AutoSize = true;
             this.HomePage.Font = new System.Drawing.Font("Unispace", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HomePage.ForeColor = System.Drawing.Color.Black;
             this.HomePage.Location = new System.Drawing.Point(12, 34);
             this.HomePage.Name = "HomePage";
             this.HomePage.Size = new System.Drawing.Size(286, 58);
