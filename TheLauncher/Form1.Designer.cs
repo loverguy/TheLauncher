@@ -37,6 +37,7 @@
             this.button9 = new System.Windows.Forms.Button();
             this.home1 = new TheLauncher.home();
             this.twitch1 = new TheLauncher.twitch();
+            this.website1 = new TheLauncher.website();
             this.panel12.SuspendLayout();
             this.panel4.SuspendLayout();
             this.SuspendLayout();
@@ -145,7 +146,7 @@
             this.home1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.home1.Location = new System.Drawing.Point(2, 75);
+            this.home1.Location = new System.Drawing.Point(1, 75);
             this.home1.Name = "home1";
             this.home1.Size = new System.Drawing.Size(1097, 384);
             this.home1.TabIndex = 10;
@@ -161,12 +162,24 @@
             this.twitch1.Size = new System.Drawing.Size(1097, 384);
             this.twitch1.TabIndex = 9;
             // 
+            // website1
+            // 
+            this.website1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.website1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(56)))), ((int)(((byte)(64)))));
+            this.website1.Location = new System.Drawing.Point(1, 75);
+            this.website1.Name = "website1";
+            this.website1.Size = new System.Drawing.Size(1097, 384);
+            this.website1.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1096, 570);
             this.Controls.Add(this.home1);
+            this.Controls.Add(this.website1);
             this.Controls.Add(this.twitch1);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel12);
@@ -189,6 +202,7 @@
         private System.Windows.Forms.Button button9;
         private twitch twitch1;
         private home home1;
+        private website website1;
     }
 }
 

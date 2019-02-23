@@ -25,10 +25,7 @@ namespace TheLauncher
           
         }
 
-        private void button8_Click(object sender, EventArgs e)
-        {
-
-        }
+        private void button8_Click(object sender, EventArgs e) => website1.BringToFront();
 
         private void button6_Click(object sender, EventArgs e) => twitch1.BringToFront();
     }

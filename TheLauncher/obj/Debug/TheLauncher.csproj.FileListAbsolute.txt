@@ -19,3 +19,5 @@ D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.exe
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.pdb
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.twitch.resources
 D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.home.resources
+D:\TheLauncher\TheLauncher\bin\Debug\TheLauncher.exe.config
+D:\TheLauncher\TheLauncher\obj\Debug\TheLauncher.website.resources

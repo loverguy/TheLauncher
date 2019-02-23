@@ -55,12 +55,6 @@
     <Compile Include="home.Designer.cs">
       <DependentUpon>home.cs</DependentUpon>
     </Compile>
-    <Compile Include="hoome.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="hoome.Designer.cs">
-      <DependentUpon>hoome.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="twitch.cs">
@@ -68,6 +62,12 @@
     </Compile>
     <Compile Include="twitch.Designer.cs">
       <DependentUpon>twitch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="website.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="website.Designer.cs">
+      <DependentUpon>website.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -87,6 +87,10 @@
     <EmbeddedResource Include="twitch.resx">
       <DependentUpon>twitch.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="website.resx">
+      <DependentUpon>website.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
